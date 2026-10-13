@@ -47,5 +47,21 @@ class ScheduledSyncTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 collect({"records":[]},d,"2026-10-13")
 
+    def test_untagged_local_crime_report_not_in_government_index(self):
+        row=sample()
+        row["title"]="Unrelated local crime"
+        row["officials"]=[]
+        row["tags"]=[]
+        self.assertIsNone(normalized(row))
+
+    def test_same_day_updates_preserve_multiple_captures(self):
+        with TemporaryDirectory() as d:
+            collect({"entries":[sample()]},d,"2026-10-13")
+            collect({"entries":[sample(name="Publisher corrected the title")]},d,"2026-10-13")
+            snapshots=list(Path(d).glob("snapshots/*.json"))
+            self.assertEqual(len(snapshots),2)
+            names=[json.loads(p.read_text())["records"][0]["title"] for p in snapshots]
+            self.assertEqual(set(names),{"First title","Publisher corrected the title"})
+
 if __name__=="__main__":
     unittest.main()
