@@ -58,6 +58,8 @@ def normalized(item):
         return None
     officials=item.get("officials") if isinstance(item.get("officials"),list) else []
     tags=item.get("tags") if isinstance(item.get("tags"),list) else []
+    if not officials and not tags:
+        return None  # Exclude feed matches with no government-related tagging
     return {
         "id":hashlib.sha256(url.encode()).hexdigest()[:24],
         "originalUrl":url,"sourceName":publisher,"title":title,
@@ -75,7 +77,8 @@ def collect(payload,root,day):
     items=sorted({r["originalUrl"]:r for r in parsed if r}.values(),key=lambda r:r["originalUrl"])
     root=Path(root);root.mkdir(parents=True,exist_ok=True)
     index_path=root/"index.json"
-    snapshot_path=root/"snapshots"/f"{day}.json"
+    digest=hashlib.sha256(json.dumps(items,ensure_ascii=False,sort_keys=True).encode("utf8")).hexdigest()[:12]
+    snapshot_path=root/"snapshots"/f"{day}-{digest}.json"
     data=json.loads(index_path.read_text(encoding="utf8")) if index_path.exists() else {"schemaVersion":2,"byUrl":{}}
     before=len(data["byUrl"])
     changed=0
