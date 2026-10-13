@@ -63,5 +63,18 @@ class ScheduledSyncTests(unittest.TestCase):
             names=[json.loads(p.read_text())["records"][0]["title"] for p in snapshots]
             self.assertEqual(set(names),{"First title","Publisher corrected the title"})
 
+    def test_inquirer_original_source_and_subdomains(self):
+        row=sample(url="https://globalnation.inquirer.net/341758/icc-holds-4th-status-conference?utm_medium=rss")
+        row["sourceName"]="INQUIRER.net"
+        normalized_record=normalized(row)
+        self.assertIsNotNone(normalized_record)
+        self.assertEqual(normalized_record["originalUrl"],"https://globalnation.inquirer.net/341758/icc-holds-4th-status-conference")
+        self.assertEqual(normalized_record["sourceName"],"INQUIRER.net")
+
+    def test_reject_inquirer_impostor(self):
+        row=sample(url="https://inquirer.net.evil.org/fake")
+        row["sourceName"]="INQUIRER.net"
+        self.assertIsNone(normalized(row))
+
 if __name__=="__main__":
     unittest.main()
