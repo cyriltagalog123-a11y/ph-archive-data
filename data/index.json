@@ -1,5 +1,75 @@
 {
   "byUrl": {
+    "https://cebudailynews.inquirer.net/774887/tino-hero-jayboy-magdadaro-from-liloan-receives-gawad-makabansa-award": {
+      "dateISO": "2026-10-13T08:38:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "1e9d507ad35e7ca6b091e6e4",
+      "officials": [],
+      "originalUrl": "https://cebudailynews.inquirer.net/774887/tino-hero-jayboy-magdadaro-from-liloan-receives-gawad-makabansa-award",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "CEBU CITY, Philippines — The Office of the Vice President (OVP) has recognized Liloan’s Bagyong Tino “hero,” Jayboy Magdadaro, with the Gawad Makabansa Award. He gained public attention after rescuing over 50 residents in Liloan, Cebu, who were caught in dangerous floodwaters during the onslaught of Typhoon Tino last N",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Tino ‘hero’ Jayboy Magdadaro from Liloan receives Gawad Makabansa Award"
+    },
+    "https://cebudailynews.inquirer.net/774946/rodrigo-duterte-appears-at-4th-icc-status-conference": {
+      "dateISO": "2026-10-13T08:56:53Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "2edb46012ad8fcc968d0aef8",
+      "officials": [
+        "Rodrigo Roa Duterte",
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://cebudailynews.inquirer.net/774946/rodrigo-duterte-appears-at-4th-icc-status-conference",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines —Former president Rodrigo Duterte appears before the International Criminal Court (ICC) Trial Chamber III on Tuesday, October 13, 2026, for the fourth status conference in his crimes against humanity case. READ: ‘He might die in prison’: VP Sara hopes ICC expedites father’s trial His previous appear",
+      "tags": [
+        "Investigations and claims",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "Rodrigo Duterte appears at 4th ICC status conference"
+    },
+    "https://globalnation.inquirer.net/341758/icc-holds-4th-status-conference-on-rodrigo-dutertes-case": {
+      "dateISO": "2026-10-13T09:12:38Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "3c521d2ea38d0434cda1fac0",
+      "officials": [
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://globalnation.inquirer.net/341758/icc-holds-4th-status-conference-on-rodrigo-dutertes-case",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — The International Criminal Court (ICC) Trial Chamber III on Tuesday convened for its fourth status conference concerning the charges of crimes against humanity against former President Rodrigo Duterte. Today’s agenda will focus on the trial proper’s daily sitting schedule through Nov. 30, includin",
+      "tags": [
+        "Investigations and claims",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "ICC holds 4th status conference on Rodrigo Duterte’s case"
+    },
+    "https://gmanetwork.com/news/balitambayan/balita/1005781/senate-court-pinayagan-ang-prosekusyon-na-iatras-ang-3-articles-of-impeachment-vs-sara-duterte/story": {
+      "dateISO": "2026-10-13T09:13:17Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "8b21e31af68f0f04438ab395",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/balitambayan/balita/1005781/senate-court-pinayagan-ang-prosekusyon-na-iatras-ang-3-articles-of-impeachment-vs-sara-duterte/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Tinanggap ng Senate impeachment court nitong Martes ang hakbang ng House prosecution panel na iatras ang tatlo sa apat na Articles of Impeachment na isinampa laban kay Vice President Sara Duterte.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Senate court, pinayagan ang prosekusyon na iatras ang 3 articles of impeachment vs Sara Duterte"
+    },
     "https://gmanetwork.com/news/topstories/nation/1005676/sara-duterte-impeachment-trial-day-39-what-to-expect/story": {
       "dateISO": "2026-10-12T22:39:36.000Z",
       "editorialStatus": "pending",
@@ -216,12 +286,100 @@
       "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005766/alan-peter-cayetano-impeachment-trial-has-no-time-limit/story",
       "sourceName": "GMA News",
       "sourceType": "publisher-rss-metadata",
-      "summary": "Senate Minority Leader Alan Peter Cayetano on Tuesday raised concerns regarding timeline following the decision of the prosecution to drop three out of the four Articles of Impeachment against Vice President Sara Duterte, saying that the proceedings",
+      "summary": "Senate Minority Leader Alan Peter Cayetano on Tuesday raised concerns regarding timeline following the decision of the prosecution to drop three out of the four Articles of Impeachment against Vice President Sara Duterte, saying that the proceedings should not be hastened for the sake of fairness.",
       "tags": [
         "Investigations and claims",
         "Elections and appointments"
       ],
       "title": "Alan Peter Cayetano: Impeachment trial has no time limit"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005773/sss-chief-de-claro-is-new-dict-secretary-says-marcos/story": {
+      "dateISO": "2026-10-13T08:05:44Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "1aaa92b4a2da9ebb5ed60051",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005773/sss-chief-de-claro-is-new-dict-secretary-says-marcos/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "President Ferdinand “Bongbong” Marcos Jr. has appointed Social Security System (SSS) chief Robert Joseph Montes de Claro as the new secretary of the Department of Information and Communications Technology (DICT), replacing Henry Aguda.",
+      "tags": [
+        "Elections and appointments",
+        "National and local governance"
+      ],
+      "title": "SSS chief De Claro is new DICT secretary, says Marcos"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005774/chiz-escudero-bares-sara-duterte-impeachment-trial-schedule-for-november/story": {
+      "dateISO": "2026-10-13T08:11:01Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "a471ef86af86dd1eb6afc29a",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005774/chiz-escudero-bares-sara-duterte-impeachment-trial-schedule-for-november/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Senate impeachment court on Tuesday released the new schedule of the impeachment trial of Vice President Sara Duterte for next month.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Chiz Escudero bares Sara Duterte impeachment trial schedule for November"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005776/marcos-to-media-disagreement-does-not-make-us-adversaries/story": {
+      "dateISO": "2026-10-13T08:16:22Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "3bb01d52ebcad92f122e8f1e",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005776/marcos-to-media-disagreement-does-not-make-us-adversaries/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "President Ferdinand “Bongbong” Marcos Jr. said on Tuesday that disagreements between the government and the media do not make them adversaries, stressing that their relationship should be anchored on mutual respect and open dialogue.",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Marcos to media: Disagreement does not make us adversaries"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005780/nbi-refers-probe-results-of-sara-duterte-s-saln-to-ombudsman/story": {
+      "dateISO": "2026-10-13T08:48:58Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "beb9490277a9e87e38b556d1",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005780/nbi-refers-probe-results-of-sara-duterte-s-saln-to-ombudsman/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The National Bureau of Investigation (NBI) on Tuesday referred its fact-finding investigation report on Vice President Sara Duterte\"s Statement of Assets, Liabilities, and Net Worth (SALN) to the Ombudsman for evaluation and appropriate action.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "NBI refers probe results of Sara Duterte's SALN to Ombudsman"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005783/impeachment-court-lifts-sub-judice-rule-on-articles-withdrawn-by-prosecutors/story": {
+      "dateISO": "2026-10-13T09:11:27Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "72516f9a3354b7f47b5c46de",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005783/impeachment-court-lifts-sub-judice-rule-on-articles-withdrawn-by-prosecutors/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Senate impeachment court on Tuesday lifted the imposition of Rule 18, or the sub judice rule, on Articles 1, 3, and 4 leveled against Vice President Sara Duterte after it allowed the move of the prosecution panel to withdraw them.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Impeachment court lifts sub judice rule on articles withdrawn by prosecutors"
     },
     "https://gmanetwork.com/news/topstories/regions/1005759/bcda-submits-pax-silica-legal-framework-to-marcos/story": {
       "dateISO": "2026-10-13T06:50:28Z",
@@ -237,6 +395,71 @@
       "summary": "The Bases Conversion and Development Authority (BCDA) has submitted to President Ferdinand “Bongbong” Marcos Jr. the legal framework for the planned Pax Silica initiative, Malacañang said Tuesday.",
       "tags": [],
       "title": "BCDA submits Pax Silica legal framework to Marcos"
+    },
+    "https://newsinfo.inquirer.net/2322967/300-kilos-of-trash-collected-in-sarangani-bay-mangrove-cleanup": {
+      "dateISO": "2026-10-13T08:28:05Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "8cf31fea7bc7f32e78f80681",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2322967/300-kilos-of-trash-collected-in-sarangani-bay-mangrove-cleanup",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "KORONADAL CITY — Around 300 kilograms of garbage were collected from mangrove and coastal areas in Malapatan town, Sarangani province, during a cleanup led by the Department of Environment and Natural Resources – Region 12 (DENR-12) and the municipal government. DENR-12’s Provincial Environment and Natural Resources Of",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "300 kilos of trash collected in Sarangani Bay mangrove cleanup"
+    },
+    "https://newsinfo.inquirer.net/2322979/sumisip-lgu-condemns-attacks-on-army-troops-in-basilan": {
+      "dateISO": "2026-10-13T08:36:48Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "859fa5ee710364101c2b31ed",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2322979/sumisip-lgu-condemns-attacks-on-army-troops-in-basilan",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "PAGADIAN CITY, Zamboanga del Sur – The local government unit (LGU) of Sumisip in Basilan province has condemned the series of deadly armed attacks targeting troops of the Philippine Army’s 45th Infantry Battalion (45th IB). In a statement on Monday evening, the Sumisip LGU denounced the two recent ambush incidents, emp",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Sumisip LGU condemns attacks on Army troops in Basilan"
+    },
+    "https://newsinfo.inquirer.net/2322993/vp-impeachment-trial-what-the-prosecution-presented-in-3-articles": {
+      "dateISO": "2026-10-13T08:55:19Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "42d7740655e9f556f7ff99e5",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://newsinfo.inquirer.net/2322993/vp-impeachment-trial-what-the-prosecution-presented-in-3-articles",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — The House prosecution panel has concluded its presentation of evidence in the impeachment trial of Vice President Sara Duterte , presenting witnesses and documentary evidence on allegations involving grave threats, confidential funds, and grave threats. Despite requesting 62 trial dates in its pre",
+      "tags": [
+        "Investigations and claims",
+        "Budget and economy"
+      ],
+      "title": "VP impeachment trial: What the prosecution presented in 3 articles"
+    },
+    "https://newsinfo.inquirer.net/2322996/marcos-on-pax-silica-initiative": {
+      "dateISO": "2026-10-13T08:43:47Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "ab8c12953cc7ed463bf971b4",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://newsinfo.inquirer.net/2322996/marcos-on-pax-silica-initiative",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — President Ferdinand Marcos Jr. on Tuesday said indigenous communities and their burial sites would not be displaced as the government moves forward with the U.S.-led Pax Silica initiative. During a brief question-and-answer session at Malacañang Palace, he said the government would handle the matt",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Marcos: Pax Silica won’t displace indigenous communities, burial sites"
     },
     "https://philstar.com/headlines/2026/10/13/2562712/supreme-court-orders-release-mining-tycoon-joseph-sy-amid-citizenship-dispute": {
       "dateISO": "2026-10-13T00:22:00Z",
@@ -331,7 +554,7 @@
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562897/p41-million-withdrawal-mans-carpios-accounts-73-minutes-unusual-witness",
       "sourceName": "The Philippine Star",
       "sourceType": "publisher-rss-metadata",
-      "summary": "A forensic accountant has described as &ldquo;unusual&rdquo; the withdrawal of P41 million in cash from the bank accounts of Vice President Sara Duterte&#39;s husband, Mans&nbsp;Carpio, within an hour and 13 minutes on Aug. 6, 2024, saying the closel",
+      "summary": "A forensic accountant has described as &ldquo;unusual&rdquo; the withdrawal of P41 million in cash from the bank accounts of Vice President Sara Duterte&#39;s husband, Mans&nbsp;Carpio, within an hour and 13 minutes on Aug. 6, 2024, saying the closely timed transactions appeared rushed.",
       "tags": [
         "Budget and economy"
       ],
@@ -348,7 +571,7 @@
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562902/sara-dutertes-unexplained-wealth-could-reach-p15-billion-witness-says",
       "sourceName": "The Philippine Star",
       "sourceType": "publisher-rss-metadata",
-      "summary": "Vice President Sara Duterte&rsquo;s unexplained wealth could reach P1.5 billion from 2022 to 2025,&nbsp;forensic financial analyst Alexander Cabrera told the impeachment court on Monday, October 12, citing potential discrepancies in financial records",
+      "summary": "Vice President Sara Duterte&rsquo;s unexplained wealth could reach P1.5 billion from 2022 to 2025,&nbsp;forensic financial analyst Alexander Cabrera told the impeachment court on Monday, October 12, citing potential discrepancies in financial records and income from business interests.",
       "tags": [
         "Investigations and claims",
         "Budget and economy"
@@ -389,6 +612,21 @@
       ],
       "title": "Sara Duterte denies owning lot NBI tied to her asset declarations"
     },
+    "https://philstar.com/headlines/2026/10/13/2562913/fact-check-marcos-video-taken-out-context-claim-2028-elections-will-be-scrapped": {
+      "dateISO": "2026-10-13T07:37:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "98502aba2725affb4813b684",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562913/fact-check-marcos-video-taken-out-context-claim-2028-elections-will-be-scrapped",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "An edited Marcos video falsely claims he plans to stop the 2028 elections.",
+      "tags": [
+        "Elections and appointments"
+      ],
+      "title": "Fact check: Marcos video taken out of context to claim 2028 elections will be scrapped"
+    },
     "https://philstar.com/headlines/2026/10/13/2562917/jinggoy-estrada-faces-fresh-90-day-suspension": {
       "dateISO": "2026-10-13T06:47:00Z",
       "editorialStatus": "pending",
@@ -415,9 +653,10 @@
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562920/cale88-banana-chips-firm-has-no-inventory-despite-100m-cash-flows-analyst",
       "sourceName": "The Philippine Star",
       "sourceType": "publisher-rss-metadata",
-      "summary": "A banana chip exporter linked to Vice President Sara Duterte&#39;s husband reported that it had no raw materials in stock and owed no money to buyers, even as large sums moved in and out of its accounts, the prosecution&#39;s financial expert witness",
+      "summary": "A banana chip exporter linked to Vice President Sara Duterte&#39;s husband reported that it had no raw materials in stock and owed no money to buyers, even as large sums moved in and out of its accounts, the prosecution&#39;s financial expert witness told the Senate impeachment court on Monday.&nbsp;",
       "tags": [
-        "Investigations and claims"
+        "Investigations and claims",
+        "Elections and appointments"
       ],
       "title": "Cale88, banana chips firm, has no inventory despite 100M+ cash flows — analyst"
     },
@@ -432,11 +671,43 @@
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562923/sc-junks-contempt-petition-vs-tito-sotto-over-sara-duterte-impeach-ruling",
       "sourceName": "The Philippine Star",
       "sourceType": "publisher-rss-metadata",
-      "summary": "In a statement on Tuesday, October 13, the Supreme Court en banc ruled that Sotto&rsquo;s public criticisms of the Court&rsquo;s decision in Duterte v. House of Representatives et al. (G.R. Nos. 278353 and 278359) fall within the bounds of protected",
+      "summary": "In a statement on Tuesday, October 13, the Supreme Court en banc ruled that Sotto&rsquo;s public criticisms of the Court&rsquo;s decision in Duterte v. House of Representatives et al. (G.R. Nos. 278353 and 278359) fall within the bounds of protected free speech and expression.",
       "tags": [
         "Investigations and claims"
       ],
       "title": "SC junks contempt petition vs Tito Sotto over Sara Duterte impeach ruling"
+    },
+    "https://philstar.com/headlines/2026/10/13/2562937/palace-vp-saras-statement-mean-she-really-business-china": {
+      "dateISO": "2026-10-13T08:13:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "4d1be53248e93df234fae0d8",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562937/palace-vp-saras-statement-mean-she-really-business-china",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Castro said Duterte should listen first before stirring any controversy, adding that the vice president reacted and responded to Marcos without reviewing his actual statement.&nbsp;",
+      "tags": [
+        "Foreign affairs and international reporting"
+      ],
+      "title": "Palace: VP Sara’s statement mean she is ‘really into business with China’"
+    },
+    "https://rappler.com/newsbreak/fact-check/quezon-city-disputes-claims-dilg-fire-truck-ambulance-turnover": {
+      "dateISO": "2026-10-13T09:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "33098565909bf2a7d35c91d9",
+      "officials": [],
+      "originalUrl": "https://rappler.com/newsbreak/fact-check/quezon-city-disputes-claims-dilg-fire-truck-ambulance-turnover",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Quezon City government clarified that the turnover took place in Quezon province, based on a DILG press release",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "FACT CHECK: Quezon City disputes claims of DILG fire truck, ambulance turnover"
     },
     "https://rappler.com/philippines/forensic-financial-analyst-sara-duterte-undeclared-wealth-ceiling-impeachment-trial": {
       "dateISO": "2026-10-12T13:34:43.000Z",
@@ -568,7 +839,7 @@
       "title": "FAST FACTS: The military’s modernization push"
     },
     "https://rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos": {
-      "dateISO": "2026-10-13T07:23:50Z",
+      "dateISO": "2026-10-13T08:33:58Z",
       "editorialStatus": "pending",
       "firstCapturedAt": "2026-10-13",
       "id": "46d275465f0136fdc38701b4",
@@ -597,7 +868,9 @@
       "sourceName": "Rappler",
       "sourceType": "publisher-rss-metadata",
       "summary": "The former Philippine president is again expected to appear during the October 13 hearing",
-      "tags": [],
+      "tags": [
+        "Foreign affairs and international reporting"
+      ],
       "title": "LIVESTREAM: ICC’s 4th status conference on Rodrigo Duterte’s case"
     },
     "https://rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte": {
