@@ -1,378 +1,654 @@
 {
-  "schemaVersion": 2,
   "byUrl": {
     "https://gmanetwork.com/news/topstories/nation/1005676/sara-duterte-impeachment-trial-day-39-what-to-expect/story": {
-      "id": "seed-000d",
-      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005676/sara-duterte-impeachment-trial-day-39-what-to-expect/story",
-      "sourceName": "GMA News",
-      "title": "Sara Duterte impeachment trial Day 39: What to expect",
       "dateISO": "2026-10-12T22:39:36.000Z",
-      "summary": "The Senate impeachment court on Tuesday is set to tackle the manifestation of the House prosecution panel to drop Article III or the bribery charges in the trial of Vice President Sara Duterte.",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-000d",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005676/sara-duterte-impeachment-trial-day-39-what-to-expect/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Senate impeachment court on Tuesday is set to tackle the manifestation of the House prosecution panel to drop Article III or the bribery charges in the trial of Vice President Sara Duterte.",
       "tags": [
         "Investigations and claims",
         "Elections and appointments"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara Duterte impeachment trial Day 39: What to expect"
     },
     "https://gmanetwork.com/news/topstories/nation/1005698/sara-duterte-impeachment-trial-day-38-vp-dropped-as-witness-p1-5b-unexplained-wealth/story": {
-      "id": "seed-000e",
-      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005698/sara-duterte-impeachment-trial-day-38-vp-dropped-as-witness-p1-5b-unexplained-wealth/story",
-      "sourceName": "GMA News",
-      "title": "Sara Duterte impeachment trial Day 38: VP dropped as witness; P1.5B 'unexplained wealth'",
       "dateISO": "2026-10-12T17:01:00.000Z",
-      "summary": "Prosecution witness and Atty. Alex Cabrera marked the last day of the prosecution\"s presentation of evidence by testifying that the unexplained wealth of Vice President Sara Duterte and her husband, Manases Carpio, could reach as much as P1.5 billion",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-000e",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005698/sara-duterte-impeachment-trial-day-38-vp-dropped-as-witness-p1-5b-unexplained-wealth/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Prosecution witness and Atty. Alex Cabrera marked the last day of the prosecution\"s presentation of evidence by testifying that the unexplained wealth of Vice President Sara Duterte and her husband, Manases Carpio, could reach as much as P1.5 billion",
       "tags": [
         "Investigations and claims",
         "Budget and economy"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara Duterte impeachment trial Day 38: VP dropped as witness; P1.5B 'unexplained wealth'"
     },
     "https://gmanetwork.com/news/topstories/nation/1005708/live-updates-sara-duterte-impeachment-trial-october-13-2026/story": {
-      "id": "seed-000c",
-      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005708/live-updates-sara-duterte-impeachment-trial-october-13-2026/story",
-      "sourceName": "GMA News",
-      "title": "LIVE UPDATES: Sara Duterte Impeachment Trial (October 13, 2026)",
       "dateISO": "2026-10-12T22:51:18.000Z",
-      "summary": "The impeachment trial of Vice President Sara Duterte will start at 1 p.m. on Tuesday, October 13, at the Senate impeachment court. Here are the latest news and updates.",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-000c",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005708/live-updates-sara-duterte-impeachment-trial-october-13-2026/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The impeachment trial of Vice President Sara Duterte will start at 1 p.m. on Tuesday, October 13, at the Senate impeachment court. Here are the latest news and updates.",
       "tags": [
         "Investigations and claims",
         "Elections and appointments"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "LIVE UPDATES: Sara Duterte Impeachment Trial (October 13, 2026)"
     },
     "https://gmanetwork.com/news/topstories/nation/1005716/sara-duterte-denies-owning-properties-linked-to-her-by-nbi/story": {
+      "dateISO": "2026-10-13T01:53:10.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
       "id": "seed-0009",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005716/sara-duterte-denies-owning-properties-linked-to-her-by-nbi/story",
       "sourceName": "GMA News",
-      "title": "Sara Duterte denies owning properties linked to her by NBI",
-      "dateISO": "2026-10-13T01:53:10.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "Vice President Sara Duterte on Tuesday denied ownership of the properties being investigated by the National Bureau of Investigation (NBI) that were supposedly linked to her and her family.",
-      "officials": [
-        "Sara Duterte"
-      ],
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara Duterte denies owning properties linked to her by NBI"
     },
     "https://gmanetwork.com/news/topstories/nation/1005728/chel-diokno-evidence-vs-sara-duterte-based-on-independent-verifiable-facts/story": {
-      "id": "seed-0004",
-      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005728/chel-diokno-evidence-vs-sara-duterte-based-on-independent-verifiable-facts/story",
-      "sourceName": "GMA News",
-      "title": "Chel Diokno: Evidence vs. Sara Duterte based on independent, verifiable facts",
       "dateISO": "2026-10-13T03:37:14.000Z",
-      "summary": "House prosecutor and Akbayan party-list Rep. Chel Diokno on Monday said the prosecution's evidence against Vice President Sara Duterte was based on independent and verifiable facts, rejecting claims that the allegations against her were fabricated.",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-0004",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005728/chel-diokno-evidence-vs-sara-duterte-based-on-independent-verifiable-facts/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "House prosecutor and Akbayan party-list Rep. Chel Diokno on Monday said the prosecution's evidence against Vice President Sara Duterte was based on independent and verifiable facts, rejecting claims that the allegations against her were fabricated.",
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
+      "title": "Chel Diokno: Evidence vs. Sara Duterte based on independent, verifiable facts"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005744/sara-duterte-i-will-never-resign/story": {
+      "dateISO": "2026-10-13T05:32:33Z",
       "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "firstCapturedAt": "2026-10-13",
+      "id": "7938b6ce7bcda948cb5a95ca",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005744/sara-duterte-i-will-never-resign/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Vice President Sara Duterte on Tuesday said that she has no plan to step down from her post amid the ongoing impeachment trial and allegations against her.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Sara Duterte: I will never resign"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005747/palace-marcos-never-said-philippines-can-t-do-business-with-china/story": {
+      "dateISO": "2026-10-13T05:59:31Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "cb07b2ed3f2ccc2365bf3e5d",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005747/palace-marcos-never-said-philippines-can-t-do-business-with-china/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Palace on Tuesday said President Ferdinand “Bongbong” Marcos Jr. never said that the country could not do business with China, adding that the issue was whether the money was used to meddle with politics.",
+      "tags": [],
+      "title": "Palace: Marcos never said Philippines can't do business with China"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005749/defense-to-present-evidence-despite-3-dropped-articles/story": {
+      "dateISO": "2026-10-13T06:02:49Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "8c4c1ef60adad4369175a982",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005749/defense-to-present-evidence-despite-3-dropped-articles/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Defense lead counsel Sheila Sison on Tuesday said the prosecution\"s decision to drop three of the four Articles of Impeachment against Vice President Sara Duterte would not affect the defense panel\"s presentation of its own evidence.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Defense seeks to present evidence despite 3 dropped articles"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005752/palace-defends-marcos-rainwater-buckets-remarks-sit-down-and-listen/story": {
+      "dateISO": "2026-10-13T06:15:15Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "73f4d5e52718fbaac32932a4",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005752/palace-defends-marcos-rainwater-buckets-remarks-sit-down-and-listen/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Malacañang on Tuesday defended President Ferdinand \"Bongbong\" Marcos Jr.'s remarks about using buckets to collect rainwater, saying people need to listen to what he had to say.",
+      "tags": [],
+      "title": "Palace defends Marcos' rainwater buckets remarks: 'Sit down and listen'"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005755/sara-duterte-on-dropping-of-bribery-charge-at-impeachment-trial-they-don-t-have-evidence/story": {
+      "dateISO": "2026-10-13T06:55:01Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "14698e4a6792996ebb7b3429",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005755/sara-duterte-on-dropping-of-bribery-charge-at-impeachment-trial-they-don-t-have-evidence/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Vice President Sara Duterte said on Tuesday that the dropping of bribery charges against her only means that the prosecution does not have enough evidence as her impeachment trial continues.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Sara Duterte on dropping of bribery charge at impeachment trial: They don't have evidence"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005756/senate-court-allows-prosecution-to-drop-3-impeachment-articles-vs-sara-duterte/story": {
+      "dateISO": "2026-10-13T06:45:36Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "e7f99313a9fc29d910f882eb",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005756/senate-court-allows-prosecution-to-drop-3-impeachment-articles-vs-sara-duterte/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Senate impeachment court on Tuesday accepted the move by the House prosecution panel to withdraw three of the four Articles of Impeachment leveled against Vice President Sara Duterte.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Senate court allows prosecution to drop 3 impeachment articles vs. Sara Duterte"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005761/sara-duterte-stresses-plan-to-run-for-president-in-2028-warns-of-fraud/story": {
+      "dateISO": "2026-10-13T06:55:50Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "ccb633425339a584e70fc314",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005761/sara-duterte-stresses-plan-to-run-for-president-in-2028-warns-of-fraud/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Vice President Sara Duterte on Tuesday stressed her intention to run for president in 2028, saying the impeachment trial has given her a chance to be scrutinized by the electorate.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Sara Duterte stresses plan to run for president in 2028, warns of fraud"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1005766/alan-peter-cayetano-impeachment-trial-has-no-time-limit/story": {
+      "dateISO": "2026-10-13T07:25:29Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "aa3e41bc89f7f4736ba3e938",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1005766/alan-peter-cayetano-impeachment-trial-has-no-time-limit/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Senate Minority Leader Alan Peter Cayetano on Tuesday raised concerns regarding timeline following the decision of the prosecution to drop three out of the four Articles of Impeachment against Vice President Sara Duterte, saying that the proceedings",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Alan Peter Cayetano: Impeachment trial has no time limit"
+    },
+    "https://gmanetwork.com/news/topstories/regions/1005759/bcda-submits-pax-silica-legal-framework-to-marcos/story": {
+      "dateISO": "2026-10-13T06:50:28Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "fc9ea1907cf90d5767d9d206",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/regions/1005759/bcda-submits-pax-silica-legal-framework-to-marcos/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Bases Conversion and Development Authority (BCDA) has submitted to President Ferdinand “Bongbong” Marcos Jr. the legal framework for the planned Pax Silica initiative, Malacañang said Tuesday.",
+      "tags": [],
+      "title": "BCDA submits Pax Silica legal framework to Marcos"
     },
     "https://philstar.com/headlines/2026/10/13/2562712/supreme-court-orders-release-mining-tycoon-joseph-sy-amid-citizenship-dispute": {
-      "id": "seed-000b",
+      "dateISO": "2026-10-13T00:22:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "c386fae7cb28816f8686ad30",
+      "officials": [],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562712/supreme-court-orders-release-mining-tycoon-joseph-sy-amid-citizenship-dispute",
       "sourceName": "The Philippine Star",
-      "title": "Supreme Court orders release of mining tycoon Joseph Sy amid citizenship dispute",
-      "dateISO": "2026-10-13T00:22:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "The Supreme Court has ordered the release of Globe-Ferronickel chairman Joseph Sy.",
-      "officials": [],
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Supreme Court orders release of mining tycoon Joseph Sy amid citizenship dispute"
     },
     "https://philstar.com/headlines/2026/10/13/2562843/sara-marcos-sees-me-threat-2023": {
-      "id": "seed-000f",
-      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562843/sara-marcos-sees-me-threat-2023",
-      "sourceName": "The Philippine Star",
-      "title": "Sara: Marcos sees me as threat since 2023",
       "dateISO": "2026-10-12T16:00:00.000Z",
-      "summary": "Instead of explaining her alleged ties to Chinese money, Vice President Sara Duterte claimed she was being targeted by the administration, and has been considered a “threat” by President Marcos since 2023.",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-000f",
       "officials": [
         "Ferdinand R. Marcos Jr.",
         "Sara Duterte"
       ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562843/sara-marcos-sees-me-threat-2023",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Instead of explaining her alleged ties to Chinese money, Vice President Sara Duterte claimed she was being targeted by the administration, and has been considered a “threat” by President Marcos since 2023.",
       "tags": [
         "Investigations and claims",
         "National and local governance"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara: Marcos sees me as threat since 2023"
     },
     "https://philstar.com/headlines/2026/10/13/2562846/philippines-eyes-green-revolution": {
+      "dateISO": "2026-10-12T16:00:00.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
       "id": "seed-000g",
+      "officials": [],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562846/philippines-eyes-green-revolution",
       "sourceName": "The Philippine Star",
-      "title": "Philippines eyes ‘green revolution’",
-      "dateISO": "2026-10-12T16:00:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "The Marcos administration will embark on a campaign to encourage the public to reuse water and revive a “green revolution” to ease the impact of a “super El Niño.”",
-      "officials": [],
       "tags": [
         "Elections and appointments",
         "National and local governance"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Philippines eyes ‘green revolution’"
     },
     "https://philstar.com/headlines/2026/10/13/2562849/sara-bong-go-top-choices-president-vp-pulse": {
+      "dateISO": "2026-10-12T16:00:00.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
       "id": "seed-000h",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562849/sara-bong-go-top-choices-president-vp-pulse",
       "sourceName": "The Philippine Star",
-      "title": "Sara, Bong Go top choices for president, VP – Pulse",
-      "dateISO": "2026-10-12T16:00:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "Vice President Sara Duterte and Sen. Bong Go remained the most preferred candidates for president and vice president, respectively, according to a recent survey conducted by Pulse Asia.",
-      "officials": [
-        "Sara Duterte"
-      ],
       "tags": [],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara, Bong Go top choices for president, VP – Pulse"
     },
     "https://philstar.com/headlines/2026/10/13/2562852/prosecutors-forgo-plan-call-sara-witness": {
+      "dateISO": "2026-10-12T16:00:00.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
       "id": "seed-000i",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562852/prosecutors-forgo-plan-call-sara-witness",
       "sourceName": "The Philippine Star",
-      "title": "Prosecutors forgo plan to call Sara as witness",
-      "dateISO": "2026-10-12T16:00:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "The prosecution team of the House of Representatives has decided to forego its plan to call Vice President Sara Duterte as a hostile witness at her impeachment trial, saying pressing her into taking the witness stand would only be an exercise in futi",
-      "officials": [
-        "Sara Duterte"
-      ],
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Prosecutors forgo plan to call Sara as witness"
     },
     "https://philstar.com/headlines/2026/10/13/2562897/p41-million-withdrawal-mans-carpios-accounts-73-minutes-unusual-witness": {
-      "id": "seed-000a",
+      "dateISO": "2026-10-13T01:13:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "eac6c2cb92ae9f13fba6b691",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562897/p41-million-withdrawal-mans-carpios-accounts-73-minutes-unusual-witness",
       "sourceName": "The Philippine Star",
-      "title": "P41-million withdrawal from Mans Carpio’s accounts in 73 minutes ‘unusual' — witness",
-      "dateISO": "2026-10-13T01:13:00.000Z",
-      "summary": "A forensic accountant has described as “unusual” the withdrawal of P41 million in cash from the bank accounts of Vice President Sara Duterte's husband, Mans Carpio, within an hour and 13 minutes on Aug. 6, 2024, saying the closel",
-      "officials": [
-        "Sara Duterte"
-      ],
+      "sourceType": "publisher-rss-metadata",
+      "summary": "A forensic accountant has described as &ldquo;unusual&rdquo; the withdrawal of P41 million in cash from the bank accounts of Vice President Sara Duterte&#39;s husband, Mans&nbsp;Carpio, within an hour and 13 minutes on Aug. 6, 2024, saying the closel",
       "tags": [
         "Budget and economy"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "P41-million withdrawal from Mans Carpio’s accounts in 73 minutes ‘unusual' — witness"
     },
     "https://philstar.com/headlines/2026/10/13/2562902/sara-dutertes-unexplained-wealth-could-reach-p15-billion-witness-says": {
-      "id": "seed-0008",
+      "dateISO": "2026-10-13T02:21:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "5e01a655a243aead78b1ddff",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562902/sara-dutertes-unexplained-wealth-could-reach-p15-billion-witness-says",
       "sourceName": "The Philippine Star",
-      "title": "Sara Duterte’s unexplained wealth could reach P1.5 billion, witness says",
-      "dateISO": "2026-10-13T02:21:00.000Z",
-      "summary": "Vice President Sara Duterte’s unexplained wealth could reach P1.5 billion from 2022 to 2025, forensic financial analyst Alexander Cabrera told the impeachment court on Monday, October 12, citing potential discrepancies in financial records",
-      "officials": [
-        "Sara Duterte"
-      ],
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Vice President Sara Duterte&rsquo;s unexplained wealth could reach P1.5 billion from 2022 to 2025,&nbsp;forensic financial analyst Alexander Cabrera told the impeachment court on Monday, October 12, citing potential discrepancies in financial records",
       "tags": [
         "Investigations and claims",
         "Budget and economy"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara Duterte’s unexplained wealth could reach P1.5 billion, witness says"
     },
     "https://philstar.com/headlines/2026/10/13/2562904/live-coverage-sara-dutertes-impeachment-trial-oct-13": {
-      "id": "seed-0006",
+      "dateISO": "2026-10-13T02:30:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "08b78cf3351f5cd236a65c84",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://philstar.com/headlines/2026/10/13/2562904/live-coverage-sara-dutertes-impeachment-trial-oct-13",
       "sourceName": "The Philippine Star",
-      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Oct. 13",
-      "dateISO": "2026-10-13T02:30:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "Follow the trial, in context and in real time.",
-      "officials": [
-        "Sara Duterte"
-      ],
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Oct. 13"
     },
     "https://philstar.com/headlines/2026/10/13/2562910/sara-duterte-denies-owning-lot-nbi-tied-her-asset-declarations": {
-      "id": "seed-0003",
-      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562910/sara-duterte-denies-owning-lot-nbi-tied-her-asset-declarations",
-      "sourceName": "The Philippine Star",
-      "title": "Sara Duterte denies owning lot NBI tied to her asset declarations",
-      "dateISO": "2026-10-13T03:45:00.000Z",
-      "summary": "Vice President Sara Duterte has denied owning a lot that the National Bureau of Investigation claims to be one of the properties in her statement of assets, liabilities and net worth (SALN), and accused the bureau of misleading the public.",
+      "dateISO": "2026-10-13T03:45:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "3873419c8bd502474040112c",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562910/sara-duterte-denies-owning-lot-nbi-tied-her-asset-declarations",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Vice President Sara Duterte has denied owning a lot that&nbsp;the National Bureau of Investigation claims to&nbsp;be one of the properties in her statement of assets, liabilities and net worth (SALN), and accused the bureau of misleading the public.",
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Sara Duterte denies owning lot NBI tied to her asset declarations"
     },
-    "https://rappler.com/philippines/forensic-financial-analyst-sara-duterte-undeclared-wealth-ceiling-impeachment-trial": {
-      "id": "seed-000k",
-      "originalUrl": "https://rappler.com/philippines/forensic-financial-analyst-sara-duterte-undeclared-wealth-ceiling-impeachment-trial",
-      "sourceName": "Rappler",
-      "title": "Duterte’s undeclared wealth may reach P1.5 billion — forensic financial analyst",
-      "dateISO": "2026-10-12T13:34:43.000Z",
-      "summary": "Alex Cabrera says this is the 'maximum' estimate for Sara Duterte's undeclared wealth after he described his initial findings of P817 million as conservative",
+    "https://philstar.com/headlines/2026/10/13/2562917/jinggoy-estrada-faces-fresh-90-day-suspension": {
+      "dateISO": "2026-10-13T06:47:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "34c3817835ea010c2f8afd86",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562917/jinggoy-estrada-faces-fresh-90-day-suspension",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Sandiganbayan Fifth Division has implemented a preventive suspension of Sen. Jinggoy Estrada amid his pending cases before the anti-graft court.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Jinggoy Estrada faces fresh 90-day suspension"
+    },
+    "https://philstar.com/headlines/2026/10/13/2562920/cale88-banana-chips-firm-has-no-inventory-despite-100m-cash-flows-analyst": {
+      "dateISO": "2026-10-13T05:41:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "59464ede00a8e45b4cb5bb18",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562920/cale88-banana-chips-firm-has-no-inventory-despite-100m-cash-flows-analyst",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "A banana chip exporter linked to Vice President Sara Duterte&#39;s husband reported that it had no raw materials in stock and owed no money to buyers, even as large sums moved in and out of its accounts, the prosecution&#39;s financial expert witness",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Cale88, banana chips firm, has no inventory despite 100M+ cash flows — analyst"
+    },
+    "https://philstar.com/headlines/2026/10/13/2562923/sc-junks-contempt-petition-vs-tito-sotto-over-sara-duterte-impeach-ruling": {
+      "dateISO": "2026-10-13T07:05:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "c75357a30fdaa7462726b511",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/13/2562923/sc-junks-contempt-petition-vs-tito-sotto-over-sara-duterte-impeach-ruling",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "In a statement on Tuesday, October 13, the Supreme Court en banc ruled that Sotto&rsquo;s public criticisms of the Court&rsquo;s decision in Duterte v. House of Representatives et al. (G.R. Nos. 278353 and 278359) fall within the bounds of protected",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "SC junks contempt petition vs Tito Sotto over Sara Duterte impeach ruling"
+    },
+    "https://rappler.com/philippines/forensic-financial-analyst-sara-duterte-undeclared-wealth-ceiling-impeachment-trial": {
+      "dateISO": "2026-10-12T13:34:43.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-000k",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://rappler.com/philippines/forensic-financial-analyst-sara-duterte-undeclared-wealth-ceiling-impeachment-trial",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Alex Cabrera says this is the 'maximum' estimate for Sara Duterte's undeclared wealth after he described his initial findings of P817 million as conservative",
       "tags": [
         "Investigations and claims",
         "Budget and economy"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Duterte’s undeclared wealth may reach P1.5 billion — forensic financial analyst"
     },
     "https://rappler.com/philippines/house-representatives-passes-2027-budget-pork-barrel-concerns": {
+      "dateISO": "2026-10-12T11:47:29.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
       "id": "seed-000l",
+      "officials": [],
       "originalUrl": "https://rappler.com/philippines/house-representatives-passes-2027-budget-pork-barrel-concerns",
       "sourceName": "Rappler",
-      "title": "House passes P7.2-trillion 2027 budget amid pork barrel concerns",
-      "dateISO": "2026-10-12T11:47:29.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "'This budget is not people-centered. It is election-centered,' says Mamamayang Liberal Representative Leila de Lima",
-      "officials": [],
       "tags": [
         "Elections and appointments",
         "Budget and economy"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "House passes P7.2-trillion 2027 budget amid pork barrel concerns"
     },
     "https://rappler.com/philippines/investment-ombudsman-boying-remulla-initiative": {
-      "id": "seed-0001",
+      "dateISO": "2026-10-13T04:03:38Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "ae418169cb15bcc2329b3503",
+      "officials": [],
       "originalUrl": "https://rappler.com/philippines/investment-ombudsman-boying-remulla-initiative",
       "sourceName": "Rappler",
-      "title": "What’s an ‘investment ombudsman,’ Boying Remulla’s second-year initiative?",
-      "dateISO": "2026-10-13T04:03:38.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "Ombudsman Jesus Crispin Remulla says his second year will focus on recovery to help the country’s economy bounce back 'by removing the corruption that holds it back'",
-      "officials": [],
       "tags": [
         "Investigations and claims",
         "Budget and economy"
       ],
-      "firstCapturedAt": "2026-10-13",
+      "title": "What’s an ‘investment ombudsman,’ Boying Remulla’s second-year initiative?"
+    },
+    "https://rappler.com/philippines/luzon/dpwh-project-relocates-pampanga-community-more-flood-prone-site-hrw": {
+      "dateISO": "2026-10-13T06:30:00Z",
       "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "firstCapturedAt": "2026-10-13",
+      "id": "ca59f200b0c9cd3e5db8ff63",
+      "officials": [],
+      "originalUrl": "https://rappler.com/philippines/luzon/dpwh-project-relocates-pampanga-community-more-flood-prone-site-hrw",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "DPWH spends P150 million dredging an island in Macabebe, and permanently relocating its residents to a former fishpond that chronically floods",
+      "tags": [
+        "Budget and economy"
+      ],
+      "title": "DPWH project relocates Pampanga community to more flood-prone site – HRW"
+    },
+    "https://rappler.com/philippines/prosecution-motion-drop-cases-except-unexplained-wealth-sara-duterte-impeachment": {
+      "dateISO": "2026-10-13T05:30:45Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "37c22419e40244837f141ee7",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://rappler.com/philippines/prosecution-motion-drop-cases-except-unexplained-wealth-sara-duterte-impeachment",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "(1st UPDATE) 'The prosecution believes it has presented sufficient evidence for Article 2 to stand on its own. We are all in here,' lead prosecutor Jinky Luistro says",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Prosecution drops all cases vs Sara Duterte except unexplained wealth"
     },
     "https://rappler.com/philippines/sandiganbayan-jinggoy-estrada-with-new-suspension-order": {
+      "dateISO": "2026-10-13T02:22:26.000Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
       "id": "seed-0007",
+      "officials": [],
       "originalUrl": "https://rappler.com/philippines/sandiganbayan-jinggoy-estrada-with-new-suspension-order",
       "sourceName": "Rappler",
-      "title": "Sandiganbayan slaps Jinggoy Estrada with new 90-day suspension order",
-      "dateISO": "2026-10-13T02:22:26.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "The anti-graft court orders a copy of the ruling served on the office of Senate President Sherwin Gatchalian for implementation",
-      "officials": [],
       "tags": [
         "Investigations and claims",
         "Elections and appointments"
       ],
-      "firstCapturedAt": "2026-10-13",
+      "title": "Sandiganbayan slaps Jinggoy Estrada with new 90-day suspension order"
+    },
+    "https://rappler.com/philippines/supreme-court-decision-dismissed-contempt-tito-sotto-sara-duterte-impeachment": {
+      "dateISO": "2026-10-13T05:51:30Z",
       "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "firstCapturedAt": "2026-10-13",
+      "id": "28b3be02c37e6444c343b17a",
+      "officials": [],
+      "originalUrl": "https://rappler.com/philippines/supreme-court-decision-dismissed-contempt-tito-sotto-sara-duterte-impeachment",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "(1st UPDATE) 'Democracy is founded on respect. With this decision, we double down not only on freedom of expression but on full respect for the respondent,' the High Court says",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "SC junks 2025 impeachment-related contempt case vs Tito Sotto"
     },
     "https://rappler.com/philippines/things-to-know-revised-armed-forces-modernization-program": {
-      "id": "seed-0005",
+      "dateISO": "2026-10-13T03:31:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "90c87afc58d6da3483b0d3c1",
+      "officials": [],
       "originalUrl": "https://rappler.com/philippines/things-to-know-revised-armed-forces-modernization-program",
       "sourceName": "Rappler",
-      "title": "FAST FACTS: The military’s modernization push",
-      "dateISO": "2026-10-13T03:31:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "Delays in the first two phases of the Revised AFP Modernization Program have prompted the Marcos administration to extend funding until 2034, even as the law is set to expire in 2027",
-      "officials": [],
       "tags": [
         "Budget and economy",
         "National and local governance"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "FAST FACTS: The military’s modernization push"
     },
     "https://rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos": {
-      "id": "seed-0000",
-      "originalUrl": "https://rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos",
-      "sourceName": "Rappler",
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "dateISO": "2026-10-13T04:05:16.000Z",
-      "summary": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "dateISO": "2026-10-13T07:23:50Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "46d275465f0136fdc38701b4",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
       "tags": [
         "Investigations and claims",
         "Elections and appointments"
       ],
-      "firstCapturedAt": "2026-10-13",
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte"
+    },
+    "https://rappler.com/philippines/video-icc-status-conference-rodrigo-duterte-case-october-13-2026": {
+      "dateISO": "2026-10-13T06:01:44Z",
       "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "firstCapturedAt": "2026-10-13",
+      "id": "96f2da2e5c3a68423957402d",
+      "officials": [
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://rappler.com/philippines/video-icc-status-conference-rodrigo-duterte-case-october-13-2026",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The former Philippine president is again expected to appear during the October 13 hearing",
+      "tags": [],
+      "title": "LIVESTREAM: ICC’s 4th status conference on Rodrigo Duterte’s case"
     },
     "https://rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte": {
-      "id": "seed-0002",
+      "dateISO": "2026-10-13T04:01:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "9973f4e62b54aa87388c5ddd",
+      "officials": [
+        "Sara Duterte"
+      ],
       "originalUrl": "https://rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte",
       "sourceName": "Rappler",
-      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
-      "dateISO": "2026-10-13T04:01:00.000Z",
+      "sourceType": "publisher-rss-metadata",
       "summary": "Rappler brings live updates, analysis, and commentary from reporters and experts as the historic impeachment trial unfolds",
-      "officials": [
-        "Sara Duterte"
-      ],
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte"
+    },
+    "https://rappler.com/technology/sss-chief-robert-joseph-de-claro-named-dict-secretary": {
+      "dateISO": "2026-10-13T07:17:44Z",
       "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "firstCapturedAt": "2026-10-13",
+      "id": "18ece1718402974901a97844",
+      "officials": [],
+      "originalUrl": "https://rappler.com/technology/sss-chief-robert-joseph-de-claro-named-dict-secretary",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "De Claro, who has more than three decades of corporate experience, takes over the government's technology department following the resignation of Henry Aguda",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "SSS chief Robert Joseph de Claro is new DICT secretary"
     },
     "https://rappler.com/video/daily-wrap/october-12-2026": {
-      "id": "seed-000j",
-      "originalUrl": "https://rappler.com/video/daily-wrap/october-12-2026",
-      "sourceName": "Rappler",
-      "title": "Forensic analyst: Sara Duterte’s unexplained wealth could be as high as P1.5-B | The wRap",
       "dateISO": "2026-10-12T14:00:00.000Z",
-      "summary": "Today’s headlines: Sara Duterte, 2028 presidential race, Henry Aguda",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-13",
+      "id": "seed-000j",
       "officials": [
         "Sara Duterte"
       ],
+      "originalUrl": "https://rappler.com/video/daily-wrap/october-12-2026",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Today’s headlines: Sara Duterte, 2028 presidential race, Henry Aguda",
       "tags": [
         "Investigations and claims"
       ],
-      "firstCapturedAt": "2026-10-13",
-      "editorialStatus": "pending",
-      "sourceType": "publisher-rss-metadata"
+      "title": "Forensic analyst: Sara Duterte’s unexplained wealth could be as high as P1.5-B | The wRap"
     }
-  }
+  },
+  "schemaVersion": 2
 }
