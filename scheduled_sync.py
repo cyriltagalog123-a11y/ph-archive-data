@@ -18,6 +18,7 @@ ALLOWED = {
     "gmanetwork.com": "GMA News",
     "philstar.com": "The Philippine Star",
     "rappler.com": "Rappler",
+    "inquirer.net": "INQUIRER.net",
 }
 
 def canonical(raw):
@@ -117,7 +118,7 @@ def main():
     if args.input:
         payload=json.loads(Path(args.input).read_text(encoding="utf8"))
     else:
-        req=Request(AGGREGATOR,headers={"User-Agent":"PHArchiveCollector/0.6 (+https://ph-archive-public.vercel.app/)"})
+        req=Request(AGGREGATOR,headers={"User-Agent":"PHArchiveCollector/0.8 (+https://ph-archive-public.vercel.app/)"})
         with urlopen(req,timeout=30) as response:
             if response.status!=200:
                 raise RuntimeError("Feed API unavailable: "+str(response.status))
