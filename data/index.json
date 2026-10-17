@@ -111,6 +111,40 @@
       ],
       "title": "Cebu City's PWD athletes to be organized into a competitive team"
     },
+    "https://cebudailynews.inquirer.net/776166/bonbon-bridge-sought-anew": {
+      "dateISO": "2026-10-17T08:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "f05e65d14b7621a2fa157647",
+      "officials": [],
+      "originalUrl": "https://cebudailynews.inquirer.net/776166/bonbon-bridge-sought-anew",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "CEBU CITY, Philippines — Students and residents in a mountain community in Balamban, Cebu, continue to face dangerous river crossings, prompting calls for a permanent bridge to provide safer passage. Cebu Gov. Pamela Baricuatro said the provincial government would rebid the construction of a permanent bridge and the re",
+      "tags": [
+        "Education and health",
+        "National and local governance"
+      ],
+      "title": "Cebu to rebid Bonbon bridge as river crossings endanger community"
+    },
+    "https://cebudailynews.inquirer.net/776172/icc-prosecutors-push-to-admit-5-witnesses-who-know-duterte-kill-list": {
+      "dateISO": "2026-10-17T08:30:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "c789c540bd554696c235a0d7",
+      "officials": [
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://cebudailynews.inquirer.net/776172/icc-prosecutors-push-to-admit-5-witnesses-who-know-duterte-kill-list",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — The International Criminal Court (ICC) prosecution panel is asking to introduce as evidence the prior recorded statements of five unnamed witnesses, who could allegedly shed light on former President Rodrigo Duterte’s so-called “kill list” and an alleged rewards system for police officers involved",
+      "tags": [
+        "Investigations and claims",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "ICC prosecutors push to admit 5 witnesses who know ‘Duterte kill list’"
+    },
     "https://globalnation.inquirer.net/341758/icc-holds-4th-status-conference-on-rodrigo-dutertes-case": {
       "dateISO": "2026-10-13T09:12:38Z",
       "editorialStatus": "pending",
@@ -194,6 +228,24 @@
         "Investigations and claims"
       ],
       "title": "NBI, sinubpoena ang mga miyembro ng 'Machong Chismisan' podcast"
+    },
+    "https://gmanetwork.com/news/balitambayan/balita/1006232/prosekusyon-hiniling-sa-icc-na-isama-ang-mga-naunang-testimonya-ng-5-saksi-sa-kaso-ni-rodrigo-du/story": {
+      "dateISO": "2026-10-17T07:54:13Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "7ee2ac7c5e5faea25677d24f",
+      "officials": [
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/balitambayan/balita/1006232/prosekusyon-hiniling-sa-icc-na-isama-ang-mga-naunang-testimonya-ng-5-saksi-sa-kaso-ni-rodrigo-du/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Prosekusyon, Hiniling sa ICC na isama ang mga naunang testimonya ng 5 saksi sa kaso ni Rodrigo DuterteHiniling ng Prosekusyon sa kaso ng dating pangulong Rodrigo Duterte noong Biyernes sa International Criminal Court (ICC) Trial Chamber III na payagan ang mga naunang naitalang testimonya ng limang saksi bilang ebidensy",
+      "tags": [
+        "Investigations and claims",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "Prosekusyon, hiniling sa ICC na isama ang mga naunang testimonya ng 5 saksi sa kaso ni Rodrigo Duterte"
     },
     "https://gmanetwork.com/news/topstories/metro/1005892/napolcom-dismisses-cop-involved-in-viral-handcuffing-incident-in-taguig/story": {
       "dateISO": "2026-10-14T07:07:46Z",
@@ -868,6 +920,74 @@
       ],
       "title": "Marcos likely to meet Trump during ASEAN Summit in Manila"
     },
+    "https://gmanetwork.com/news/topstories/nation/1006224/doh-warns-of-food-spoilage-amid-el-ni-o/story": {
+      "dateISO": "2026-10-17T06:07:20Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "e5976f5d76cc2dca88bcc444",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1006224/doh-warns-of-food-spoilage-amid-el-ni-o/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Department of Health (DOH) on Saturday warned the public that food could spoil faster because of the hotter weather brought by the El Niño phenomenon.",
+      "tags": [
+        "Education and health",
+        "National and local governance"
+      ],
+      "title": "DOH warns of food spoilage amid El Niño"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1006227/senator-judges-should-consider-nbi-findings-in-sara-duterte-impeachment-trial-says-chua/story": {
+      "dateISO": "2026-10-17T06:58:27Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "bb42784eb5d037449cadabe0",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1006227/senator-judges-should-consider-nbi-findings-in-sara-duterte-impeachment-trial-says-chua/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "House prosecutor Manila 3rd District Representative Joel Chua on Saturday said senator-judges should consider the findings of the National Bureau of Investigation regarding the properties being linked to Vice President Sara Duterte in the impeachment trial of the second highest official in the government.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments",
+        "National and local governance"
+      ],
+      "title": "Senator-judges should consider NBI findings in Sara Duterte impeachment trial, says Chua"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1006229/why-house-prosecutors-are-betting-all-in-on-article-ii-in-vp-sara-impeachment/story": {
+      "dateISO": "2026-10-17T07:14:23Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "35022e76483e46530d9de2f2",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1006229/why-house-prosecutors-are-betting-all-in-on-article-ii-in-vp-sara-impeachment/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Following the House prosecution\"s decision to drop three out of four Articles of Impeachment against Vice President Sara Duterte, House prosecutor Manila 3rd District Representative Joel Chua said Saturday the panel is betting everything on Article II, because it's easier to understand for the public.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Why House prosecutors are betting 'all-in' on Article II in VP Sara impeachment"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1006233/ocd-gov-t-can-tap-p7-8-b-ndrrm-fund-for-el-ni-o-response/story": {
+      "dateISO": "2026-10-17T08:10:53Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "f51df403bd54cc4668f4a0c8",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1006233/ocd-gov-t-can-tap-p7-8-b-ndrrm-fund-for-el-ni-o-response/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Philippine government government can tap over P7 billion available National Disaster Risk Reduction and Management (NDRRM) Fund for response and relief efforts due to the effects of El Niño phenomenon, the Office of Civil Defense (OCD) said Saturday",
+      "tags": [
+        "Budget and economy",
+        "National and local governance"
+      ],
+      "title": "OCD: Gov't can tap P7.8-B NDRRM fund for El Niño response"
+    },
     "https://gmanetwork.com/news/topstories/regions/1005759/bcda-submits-pax-silica-legal-framework-to-marcos/story": {
       "dateISO": "2026-10-13T06:50:28Z",
       "editorialStatus": "pending",
@@ -1255,6 +1375,68 @@
         "National and local governance"
       ],
       "title": "2 arrested in P2.72 million drug bust in Mabalacat"
+    },
+    "https://newsinfo.inquirer.net/2325517/qc-solon-takes-legal-action-vs-fake-news-sites": {
+      "dateISO": "2026-10-17T06:48:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "732fe957c41e66ddf0a7eb37",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2325517/qc-solon-takes-legal-action-vs-fake-news-sites",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Quezon City 5th District Rep. Patrick Michael Vargas presents the formal complaint and digital evidence before the National Bureau of Investigation (NBI) on Friday, Oct. 16. (Photo from the office of Quezon City 5th District Rep. Patrick Michael Vargas) MANILA, Philippines — Quezon City 5th District Rep. Patrick Michae",
+      "tags": [
+        "Investigations and claims",
+        "National and local governance"
+      ],
+      "title": "QC solon takes legal action vs 'fake' news sites"
+    },
+    "https://newsinfo.inquirer.net/2325523/northern-samar-leads-eastern-visayas-in-economic-growth-at-4-6": {
+      "dateISO": "2026-10-17T06:55:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "a11738c9bdff6df762e4a37b",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2325523/northern-samar-leads-eastern-visayas-in-economic-growth-at-4-6",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "TACLOBAN CITY — Northern Samar posted the highest economic growth rate in Eastern Visayas in 2025, with its economy expanding by 4.6% from 3.4% in the previous year, according to the Philippine Statistics Authority (PSA) regional office. The PSA- 8 released the latest Provincial Product Accounts (PPA) on Oct. 15, showi",
+      "tags": [
+        "Budget and economy",
+        "National and local governance"
+      ],
+      "title": "Northern Samar leads Eastern Visayas in economic growth at 4.6%"
+    },
+    "https://newsinfo.inquirer.net/2325567/residents-of-southern-bukidnon-warned-of-afternoon-rains": {
+      "dateISO": "2026-10-17T08:03:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "d3014fd4435c06cb63b036fe",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2325567/residents-of-southern-bukidnon-warned-of-afternoon-rains",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "VALENCIA CITY, Bukidnon — The state weather bureau has warned residents of southern Bukidnon of moderate to heavy rains, particularly in the afternoon and evening. Speaking to the Inquirer on Saturday, October 17, Catherine Asunto, weather specialist at the Mindanao Regional Services Division of the Philippine Atmosphe",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Residents of southern Bukidnon warned of afternoon rains"
+    },
+    "https://newsinfo.inquirer.net/2325585/diocese-of-virac-pushes-moratorium-on-catanduanes-mining-projects": {
+      "dateISO": "2026-10-17T08:25:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "f19b6a95506f48d2b5f65c82",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2325585/diocese-of-virac-pushes-moratorium-on-catanduanes-mining-projects",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "LEGAZPI CITY — The Diocese of Virac has called for a moratorium on mining projects in Catanduanes, warning that they could threaten human lives, contaminate water sources and damage the island province’s environment and livelihoods. In a pastoral letter dated Oct. 14, Bishop Luisito A. Occiano urged the government to s",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Diocese of Virac pushes moratorium on Catanduanes mining projects"
     },
     "https://pep.inquirer.net/3188/global-care-cabuyao-philhealth-sign-pact-to-expand-access-to-cancer-care": {
       "dateISO": "2026-10-15T08:30:43Z",
@@ -1849,6 +2031,90 @@
       ],
       "title": "NBI subpoenas ‘Machong Chismisan’ hosts over ‘walang kwenta’ jab at Josh Aquino"
     },
+    "https://philstar.com/headlines/2026/10/17/2563723/zaldy-cos-bagmen-baligod-arrested-unjust-vexation": {
+      "dateISO": "2026-10-16T16:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "ffb0f6ac5bce86835d19466b",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/10/17/2563723/zaldy-cos-bagmen-baligod-arrested-unjust-vexation",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Fourteen alleged bagmen of ex-lawmaker Zaldy Co and their lawyer Levi Baligod have been ordered arrested yet again, this time by a Zambales court for unjust vexation.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Zaldy Co’s bagmen, Baligod arrested for unjust vexation"
+    },
+    "https://philstar.com/headlines/2026/10/17/2563724/ombudsman-plunder-cases-vs-legarda-leviste-filed-soon": {
+      "dateISO": "2026-10-16T16:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "d680daf4f2c95c96cc72876e",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/10/17/2563724/ombudsman-plunder-cases-vs-legarda-leviste-filed-soon",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "A plunder case against Sen. Loren Legarda and her son, Batangas Rep. Leandro Leviste, will be filed before the Sandiganbayan soon as the complaint undergoes preliminary investigation, Ombudsman Jesus Crispin Remulla said.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Ombudsman: Plunder cases vs Legarda, Leviste filed soon"
+    },
+    "https://philstar.com/headlines/2026/10/17/2563725/vp-tackle-saln-issues-court-ombudsman": {
+      "dateISO": "2026-10-16T16:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "ca2ae6a2cd914a56fcde8ef4",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/17/2563725/vp-tackle-saln-issues-court-ombudsman",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Vice President Sara Duterte on Thursday said the Senate impeachment court and the Office of the Ombudsman are the proper forums to answer allegations that she failed to declare properties linked to her family.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "VP: Tackle SALN issues in court, before ombudsman"
+    },
+    "https://philstar.com/headlines/2026/10/17/2563727/60-percent-think-some-senators-wont-be-fair-impeachment-trial": {
+      "dateISO": "2026-10-16T16:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "5716c91f423880b3f901b221",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/17/2563727/60-percent-think-some-senators-wont-be-fair-impeachment-trial",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "While there will be some senators who will be impartial, a majority of Filipinos believed that there will be some who would not be fair in their decision in the impeachment trial of Vice President Sara Duterte, a survey conducted by Pulse Asia showed.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "60 percent think some senators won’t be fair in impeachment trial"
+    },
+    "https://philstar.com/headlines/2026/10/17/2563852/icc-prosecutors-seek-present-5-witnesses-prior-testimonies-duterte-case": {
+      "dateISO": "2026-10-17T02:19:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "98b573818739227c9793d6bf",
+      "officials": [
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/10/17/2563852/icc-prosecutors-seek-present-5-witnesses-prior-testimonies-duterte-case",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Prosecutors at the International Criminal Court have asked judges to admit the recorded testimonies of five witnesses in the crimes against humanity of murder&nbsp;case against former president Rodrigo Duterte, saying their accounts could help establish an alleged policy of killing suspected criminals.",
+      "tags": [
+        "Investigations and claims",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "ICC prosecutors seek to present 5 witnesses' prior testimonies in Duterte case"
+    },
     "https://rappler.com/newsbreak/fact-check/ace-barbers-antonio-trillanes-senatorial-race": {
       "dateISO": "2026-10-16T06:30:00Z",
       "editorialStatus": "pending",
@@ -2013,6 +2279,22 @@
         "Budget and economy"
       ],
       "title": "House passes P7.2-trillion 2027 budget amid pork barrel concerns"
+    },
+    "https://rappler.com/philippines/inside-story-politician-shabu-laos-manila": {
+      "dateISO": "2026-10-17T02:30:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "76cf3b5d51ebf05e4cf964e9",
+      "officials": [],
+      "originalUrl": "https://rappler.com/philippines/inside-story-politician-shabu-laos-manila",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "DILG chief Remulla says that a former member of the Bangsamoro Transition Authority is allegedly involved in the multi-million-peso shabu mess",
+      "tags": [
+        "Investigations and claims",
+        "Budget and economy"
+      ],
+      "title": "Inside story: Politician behind 521-kilo shabu shipment bound for Manila"
     },
     "https://rappler.com/philippines/investment-ombudsman-boying-remulla-initiative": {
       "dateISO": "2026-10-13T04:03:38Z",
@@ -2203,6 +2485,21 @@
       ],
       "title": "Sandro Marcos leaves father’s party, joins Lakas"
     },
+    "https://rappler.com/philippines/supreme-court-chief-justice-candidates-2026": {
+      "dateISO": "2026-10-17T03:50:37Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "8f3cd2692bb31781a534a7e8",
+      "officials": [],
+      "originalUrl": "https://rappler.com/philippines/supreme-court-chief-justice-candidates-2026",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The candidates include two of the most senior justices: Senior Associate Justice Marvic Leonen and Associate Justice Alfredo Benjamin Caguioa",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "5 Supreme Court justices vie to become next chief justice"
+    },
     "https://rappler.com/philippines/supreme-court-decision-dismissed-contempt-tito-sotto-sara-duterte-impeachment": {
       "dateISO": "2026-10-13T05:51:30Z",
       "editorialStatus": "pending",
@@ -2334,6 +2631,23 @@
       ],
       "title": "Forensic analyst: Sara Duterte’s unexplained wealth could be as high as P1.5-B | The wRap"
     },
+    "https://rappler.com/video/daily-wrap/october-16-2026": {
+      "dateISO": "2026-10-16T14:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "1dd9e12fd1b1d561440a6f97",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://rappler.com/video/daily-wrap/october-16-2026",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Today’s headlines: Ferdinand Marcos Jr., DILG, Kris & Josh Aquino",
+      "tags": [
+        "Foreign affairs and international reporting"
+      ],
+      "title": "Marcos to summon China envoy over ‘threat’ | The wRap"
+    },
     "https://rappler.com/voices/thought-leaders/in-this-economy-will-sara-duterte-be-good-for-business": {
       "dateISO": "2026-10-14T07:30:24Z",
       "editorialStatus": "pending",
@@ -2365,6 +2679,36 @@
         "National and local governance"
       ],
       "title": "[Vantage Point] Semirara: The government is auctioning an energy crisis"
+    },
+    "https://sports.inquirer.net/701939/nba-lebron-76ers-give-philadelphia-fans-a-taste-of-whats-ahead": {
+      "dateISO": "2026-10-17T07:32:06Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "323105bb923f5c0a5998fdb3",
+      "officials": [],
+      "originalUrl": "https://sports.inquirer.net/701939/nba-lebron-76ers-give-philadelphia-fans-a-taste-of-whats-ahead",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "PHILADELPHIA— LeBron James locked eyes on the basketball the moment Tyrese Maxey lobbed a half-court pass in his new teammate’s direction. James snared the ball and brought it home for a two-handed dunk that sent the 76ers’ crowd of 19,746 fans — yes, a sellout in the final preseason game — into a frenzy. Just wait unt",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "NBA: LeBron, 76ers give Philadelphia fans a taste of what’s ahead"
+    },
+    "https://sports.inquirer.net/701960/rafael-jodar-says-still-learning-after-swearing-at-ballboy": {
+      "dateISO": "2026-10-17T08:25:12Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-10-17",
+      "id": "97b2111640ed7f9db257db62",
+      "officials": [],
+      "originalUrl": "https://sports.inquirer.net/701960/rafael-jodar-says-still-learning-after-swearing-at-ballboy",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "SHANGHAI–Rising Spanish tennis star Rafael Jodar said he was still “learning how to behave on court” after swearing at a ballboy at the Shanghai Masters, where he reached the semi-finals on Friday to make history. The 20-year-old recovered from a set down to beat Norway’s Casper Ruud 4-6, 6-4, 6-3 and become the younge",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Rafael Jodar says 'still learning' after swearing at ballboy"
     }
   },
   "schemaVersion": 2
