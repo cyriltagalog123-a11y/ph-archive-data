@@ -1289,6 +1289,23 @@
       ],
       "title": "Senators propose zero-tariffs on PH products during Japan visit"
     },
+    "https://globalnation.inquirer.net/346105/padilla-to-bato-dela-rosa-on-icc-warrant-naiinggit-ako-sayo": {
+      "dateISO": "2026-11-06T10:27:58Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "0c54f3554eea06f92a0339a3",
+      "officials": [],
+      "originalUrl": "https://globalnation.inquirer.net/346105/padilla-to-bato-dela-rosa-on-icc-warrant-naiinggit-ako-sayo",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — Sen. Robinhood “Robin” Padilla expressed envy toward his colleague, Sen. Ronald “Bato” dela Rosa, who is currently in hiding after the International Criminal Court (ICC) issued a warrant for his arrest. Speaking to reporters at the Department of Justice (DOJ), Padilla admitted that if he were in d",
+      "tags": [
+        "Investigations and claims",
+        "National and local governance",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "Padilla to Bato dela Rosa on ICC warrant: ‘Naiinggit ako sa'yo’"
+    },
     "https://gmanetwork.com/news/balitambayan/balita/1005781/senate-court-pinayagan-ang-prosekusyon-na-iatras-ang-3-articles-of-impeachment-vs-sara-duterte/story": {
       "dateISO": "2026-10-13T09:13:17Z",
       "editorialStatus": "pending",
@@ -1557,6 +1574,23 @@
         "Investigations and claims"
       ],
       "title": "2 suspek sa kaso ng pagtatapon ng mga patay na hayop sa Bulacan, sumuko at idinetalye kung ano ang nangyari"
+    },
+    "https://gmanetwork.com/news/balitambayan/balita/1008544/marcos-pinanumpa-ang-10-opisyal-sa-kaniyang-gabinete-na-sasalang-sa-ca/story": {
+      "dateISO": "2026-11-06T09:12:22Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "c67eb1d6e171e3d823a0a1f3",
+      "officials": [
+        "Ferdinand R. Marcos Jr."
+      ],
+      "originalUrl": "https://gmanetwork.com/news/balitambayan/balita/1008544/marcos-pinanumpa-ang-10-opisyal-sa-kaniyang-gabinete-na-sasalang-sa-ca/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Pinangasiwaan ni Pangulong Ferdinand “Bongbong” Marcos Jr. nitong Biyernes ang panunumpa sa tungkulin ng 10 sa kaniyang mga ad interim appointees na namumuno sa iba't ibang ahensiya ng gobyerno na tinawag na \"best team\" ng administrasyon.",
+      "tags": [
+        "Elections and appointments"
+      ],
+      "title": "Marcos, pinanumpa ang 10 opisyal sa kaniyang Gabinete na sasalang sa CA"
     },
     "https://gmanetwork.com/news/balitambayan/pinoyabroad/1008301/ph-embassy-nagpaalala-sa-mga-pinoy-sa-france-na-mag-ingat-at-maghanda-sa-gitna-ng-malawakang-kil/story": {
       "dateISO": "2026-11-04T11:48:59Z",
@@ -4029,6 +4063,133 @@
       ],
       "title": "'Big chance' of Bato dela Rosa getting arrested, says NBI's Matibag"
     },
+    "https://gmanetwork.com/news/topstories/nation/1008541/rodrigo-duterte-saddened-very-angered-by-manhunt-vs-allies-says-kitty/story": {
+      "dateISO": "2026-11-06T08:41:23Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "bc274325be5b5e4629b985c8",
+      "officials": [
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008541/rodrigo-duterte-saddened-very-angered-by-manhunt-vs-allies-says-kitty/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Former president Rodrigo Duterte has expressed disapproval of what he perceives as efforts of the Marcos administration to go after his allies and supporters instead of addressing the needs of the nation, his daughter Veronica “Kitty” Duterte said.",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Rodrigo Duterte 'saddened, very angered' by manhunt vs. allies, says Kitty"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008545/ombudsman-79-flood-control-related-cases-filed-in-courts/story": {
+      "dateISO": "2026-11-06T09:21:44Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "c6b271831d92662a377a593f",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008545/ombudsman-79-flood-control-related-cases-filed-in-courts/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Office of the Ombudsman has filed with Philippine courts 79 criminal cases related to the multi-billion peso flood control corruption scandal, Ombudsman Jesus Crispin Remulla said Friday.",
+      "tags": [
+        "Investigations and claims",
+        "Budget and economy"
+      ],
+      "title": "Ombudsman: 79 flood control-related cases filed in courts"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008546/rodil-zalameda-takes-oath-as-28th-supreme-court-chief-justice/story": {
+      "dateISO": "2026-11-06T09:21:59Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "c18cbdd5afe0988c1e65f952",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008546/rodil-zalameda-takes-oath-as-28th-supreme-court-chief-justice/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Associate Justice Rodil Zalameda took his oath on Friday as the new Supreme Court Chief Justice, succeeding outgoing Chief Justice Alexander Gesmundo, who retired on the same day.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Rodil Zalameda takes oath as 28th Supreme Court Chief Justice"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008548/padilla-envies-bato-dela-rosa-for-being-wanted-by-icc-won-t-ask-him-to-surrender/story": {
+      "dateISO": "2026-11-06T09:34:42Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "8f3936d55d65793b5ac378d8",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008548/padilla-envies-bato-dela-rosa-for-being-wanted-by-icc-won-t-ask-him-to-surrender/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Senator Robin Padilla said Friday that he envies Senator Ronald “Bato” dela Rosa, who is currently in hiding, for being wanted by a foreign institution, referring to the International Criminal Court (ICC).",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "Padilla envies Bato dela Rosa for being 'wanted' by ICC, won't ask him to surrender"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008549/ombudsman-remulla-romualdez-cannot-have-personal-staff-with-him-in-jail/story": {
+      "dateISO": "2026-11-06T09:37:30Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "021746b0988c8af3ef077fca",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008549/ombudsman-remulla-romualdez-cannot-have-personal-staff-with-him-in-jail/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Ombudsman Jesus Crispin Remulla on Friday said they will verify the information concerning former Speaker and Leyte Representative Martin Romualdez being accompanied by a personal staff while in detention in a Quezon City jail over a P7.4-billion plunder charge.",
+      "tags": [
+        "Investigations and claims",
+        "Budget and economy",
+        "National and local governance"
+      ],
+      "title": "Ombudsman Remulla: Romualdez cannot have personal staff with him in jail"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008551/ombudsman-eyes-charges-vs-fake-news-peddlers-claiming-he-is-sick/story": {
+      "dateISO": "2026-11-06T09:42:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "73d6b7b65d6f635ab53a7aa8",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008551/ombudsman-eyes-charges-vs-fake-news-peddlers-claiming-he-is-sick/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Ombudsman Jesus Crispin Remulla on Friday vowed to go after Facebook pages that identify him as someone afflicted with leukemia, saying he has been cancer-free for three years now.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Ombudsman eyes charges vs. fake news peddlers claiming he is sick"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008553/palace-reminds-agencies-to-keep-istmas-parties-simple/story": {
+      "dateISO": "2026-11-06T09:58:43Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "7d9423ac732813b96524c791",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008553/palace-reminds-agencies-to-keep-istmas-parties-simple/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Malacañang on Friday reminded government agencies to keep their Christmas celebrations simple this year, although no order was needed to implement this.",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Palace reminds agencies to keep Christmas parties simple"
+    },
+    "https://gmanetwork.com/news/topstories/nation/1008556/malaca-ang-distances-itself-from-martin-romualdez-aide-issue/story": {
+      "dateISO": "2026-11-06T10:16:58Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "6807e5792ac784d5c561dc1e",
+      "officials": [],
+      "originalUrl": "https://gmanetwork.com/news/topstories/nation/1008556/malaca-ang-distances-itself-from-martin-romualdez-aide-issue/story",
+      "sourceName": "GMA News",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Palace on Friday distanced itself from the controversy over former Speaker Martin Romualdez reportedly having staff attend to him while detained at the New Quezon City Jail.",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Malacañang distances itself from Martin Romualdez aide issue"
+    },
     "https://gmanetwork.com/news/topstories/regions/1005759/bcda-submits-pax-silica-legal-framework-to-marcos/story": {
       "dateISO": "2026-10-13T06:50:28Z",
       "editorialStatus": "pending",
@@ -5814,6 +5975,119 @@
         "Investigations and claims"
       ],
       "title": "Luistro praises ex-law dean’s reason for declining to be VP witness"
+    },
+    "https://newsinfo.inquirer.net/2337248/kapunan-vp-duterte-will-be-worst-witness-in-her-impeachment-trial": {
+      "dateISO": "2026-11-06T11:02:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "4600a4da5c82e65448e90712",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://newsinfo.inquirer.net/2337248/kapunan-vp-duterte-will-be-worst-witness-in-her-impeachment-trial",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — While she hopes that Vice President Sara Duterte will still show up for her impeachment trial, counsel for the prosecution Lorna Kapunan does not expect this to happen since the country’s second-highest official will be the worst witness in her own case. Kapunan, in a press briefing on Friday at t",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Kapunan: VP Duterte will be worst witness in her impeachment trial"
+    },
+    "https://newsinfo.inquirer.net/2337259/deped-saves-%e2%82%b11-4b-in-landmark-procurement-of-laptops-via-open-bidding": {
+      "dateISO": "2026-11-06T10:28:32Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "4dda175015c5fc36fd6e73f0",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2337259/deped-saves-%e2%82%b11-4b-in-landmark-procurement-of-laptops-via-open-bidding",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines— The Department of Education (DepEd) saved at least P1.4 billion in procuring more than 231,000 laptops for public school teachers through an open and competitive bidding instead of through a negotiated procurement, Education Secretary Sonny Angara said in a statement on Friday. The procurement cove",
+      "tags": [
+        "Budget and economy",
+        "Education and health",
+        "National and local governance"
+      ],
+      "title": "DepEd saves ₱1.4B in landmark procurement of laptops via open bidding"
+    },
+    "https://newsinfo.inquirer.net/2337261/verbal-spat-to-power-hug-castro-magalong-strike-a-friendlier-note": {
+      "dateISO": "2026-11-06T10:16:23Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "a22ba5dfc62ba04a7b3c7714",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2337261/verbal-spat-to-power-hug-castro-magalong-strike-a-friendlier-note",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — From verbal exchanges to a “power hug,” Palace press officer Claire Castro and Baguio City Mayor Benjamin Magalong appear to have put their past differences behind them. At a briefing on Friday, Castro said she interacted with Magalong during the ceremonial turnover of Disaster Rehabilitation and",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Verbal spat to ‘power hug’: Castro, Magalong strike a friendlier note"
+    },
+    "https://newsinfo.inquirer.net/2337278/inqtoday-palace-wants-probe-into-romualdezs-24-7-qc-jail-aide": {
+      "dateISO": "2026-11-06T11:12:52Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "e411b9e0113c2013eedbc234",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2337278/inqtoday-palace-wants-probe-into-romualdezs-24-7-qc-jail-aide",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — Here are INQToday’s top stories on Friday, Nov. 6, 2026, as of 6 p.m. Palace wants probe into Romualdez’s 24/7 QC jail aide Malacañang called for a deeper investigation on Friday into why former Speaker Martin Romualdez was allowed to have a personal staff member to assist him inside the city jail",
+      "tags": [
+        "Investigations and claims",
+        "National and local governance"
+      ],
+      "title": "INQToday: Palace wants probe into Romualdez's 24/7 QC jail aide"
+    },
+    "https://newsinfo.inquirer.net/2337309/3-areas-under-dangerous-level-heat-index-on-saturday-pagasa": {
+      "dateISO": "2026-11-06T11:08:44Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "81b6619d1460d01508dfb059",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2337309/3-areas-under-dangerous-level-heat-index-on-saturday-pagasa",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — Three areas are forecast to continue to experience dangerous levels of heat on Saturday, Nov. 7, the state weather bureau said. In its 5 p.m. heat index forecast, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) reported that the heat index in San Jose in O",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "3 areas under dangerous level heat index on Saturday -- Pagasa"
+    },
+    "https://newsinfo.inquirer.net/2337310/ridon-happy-with-senate-order-most-of-our-evidence-admitted-2": {
+      "dateISO": "2026-11-06T11:14:53Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "48c62c1c3fcfe7903c369375",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://newsinfo.inquirer.net/2337310/ridon-happy-with-senate-order-most-of-our-evidence-admitted-2",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — Despite the Senate Impeachment Court not admitting some audit reports as evidence for the unexplained wealth charge against Vice President Sara Duterte, public prosecutor and Bicol Saro party-list Rep. Terry Ridon considers it as a win since most of their presentations were considered. In a video",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Ridon happy with Senate order: Most of our evidence admitted"
+    },
+    "https://newsinfo.inquirer.net/2337342/remulla-to-bjmp-report-on-romualdezs-personal-aide-within-48-hours": {
+      "dateISO": "2026-11-06T11:49:32Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "0f64c18e25ed1a5932790398",
+      "officials": [],
+      "originalUrl": "https://newsinfo.inquirer.net/2337342/remulla-to-bjmp-report-on-romualdezs-personal-aide-within-48-hours",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "MANILA, Philippines — Interior Secretary Jonvic Remulla on Friday directed the Bureau of Jail Management and Penology (BJMP) to submit a comprehensive report regarding the authorization of former House Speaker Ferdinand Martin Romualdez’s personal helper within 48 hours. His directive follows BJMP’s admission before th",
+      "tags": [
+        "National and local governance"
+      ],
+      "title": "Remulla to BJMP: Report on Romualdez’s personal aide within 48 hours"
     },
     "https://pep.inquirer.net/3188/global-care-cabuyao-philhealth-sign-pact-to-expand-access-to-cancer-care": {
       "dateISO": "2026-10-15T08:30:43Z",
@@ -8081,6 +8355,140 @@
       ],
       "title": "Comelec targets 3 million new voters for 2028 elections"
     },
+    "https://philstar.com/headlines/2026/11/06/2568103/cavite-pet-crematorium-contracted-bulacan-couple-cremate-pets-nbi": {
+      "dateISO": "2026-11-05T23:42:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "c9f16f3e0902183434c0e020",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568103/cavite-pet-crematorium-contracted-bulacan-couple-cremate-pets-nbi",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Ahjay Paws Aftercare Pet Crematorium in Bacoor, Cavite, contracted a married couple in San Jose del Monte City, Bulacan, to cremate dead pets entrusted to the establishment, the National Bureau of Investigation said.",
+      "tags": [
+        "Investigations and claims",
+        "National and local governance"
+      ],
+      "title": "Cavite pet crematorium contracted Bulacan couple to cremate pets — NBI"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568165/thomas-markles-son-named-person-interest": {
+      "dateISO": "2026-11-05T16:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "3d53f37a711340df7ee6184b",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568165/thomas-markles-son-named-person-interest",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Thomas Markle&rsquo;s son has been placed under investigation as a person of interest in a suspected child sexual abuse materials case involving electronic devices surrendered to authorities in Cebu, Interior Secretary Jonvic Remulla said yesterday.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments",
+        "National and local governance"
+      ],
+      "title": "Thomas Markle’s son named person of interest"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568201/marcos-jr-picks-zalameda-next-chief-justice": {
+      "dateISO": "2026-11-05T16:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "6044828872f2d5390638df11",
+      "officials": [
+        "Ferdinand R. Marcos Jr.",
+        "Rodrigo Roa Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568201/marcos-jr-picks-zalameda-next-chief-justice",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "An appointee of former president Rodrigo Duterte to the Supreme Court who has been in the legal profession for more than three decades is the country’s next chief justice.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Marcos Jr. picks Zalameda as next chief justice"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568289/senate-impeachment-court-reimposes-gag-order-withdrawn-articles": {
+      "dateISO": "2026-11-06T02:58:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "4e9ce9425b3f2bff84befcda",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568289/senate-impeachment-court-reimposes-gag-order-withdrawn-articles",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Senate impeachment court has reimposed its gag order on the three charges prosecutors dropped against Vice President Sara Duterte, reversing an October ruling that had freed both sides to discuss them in public.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Senate impeachment court reimposes gag order for withdrawn articles"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568292/vp-sara-visit-hong-kong-ahead-impeachment-trial-resumption": {
+      "dateISO": "2026-11-06T04:15:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "3271995769c180e8cb40eced",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568292/vp-sara-visit-hong-kong-ahead-impeachment-trial-resumption",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Office of the Vice President announced that Vice President Sara Duterte will be in Hong Kong until November 8, just one day before the resumption of her impeachment trial.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "VP Sara to visit Hong Kong ahead of impeachment trial resumption"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568308/malacaang-probe-why-romualdez-had-alleged-aide-jail": {
+      "dateISO": "2026-11-06T07:49:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "3a141b9a51c4aae5b090a3fd",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568308/malacaang-probe-why-romualdez-had-alleged-aide-jail",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Authorities are urged to determine why he allegedly had an aide assigned around the clock.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Malacañang: Probe why Romualdez had alleged aide in jail"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568318/deped-says-open-bidding-saved-p14b-teachers-laptops": {
+      "dateISO": "2026-11-06T07:52:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "159a4ad1ffbf608c988a5ca2",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568318/deped-says-open-bidding-saved-p14b-teachers-laptops",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The Department of Education said it saved at least P1.4 billion in procuring more than 231,000 laptops for public school teachers by putting the contracts to open bidding instead of negotiating with suppliers.",
+      "tags": [
+        "Budget and economy",
+        "Education and health",
+        "National and local governance"
+      ],
+      "title": "DepEd says open bidding saved P1.4B on teachers' laptops"
+    },
+    "https://philstar.com/headlines/2026/11/06/2568328/4-face-nbi-raps-over-dumped-pet-remains-bulacan": {
+      "dateISO": "2026-11-06T10:08:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "4f2ab1ad1132d7651010a475",
+      "officials": [],
+      "originalUrl": "https://philstar.com/headlines/2026/11/06/2568328/4-face-nbi-raps-over-dumped-pet-remains-bulacan",
+      "sourceName": "The Philippine Star",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Investigators are also looking into possible estafa and consumer law violations, as well as how the establishments involved obtained permits.",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "4 face NBI raps over dumped pet remains in Bulacan"
+    },
     "https://philstar.com/nation/2026/11/03/2567603/43c-extreme-heat-disrupts-classes-western-visayas": {
       "dateISO": "2026-11-03T10:51:00Z",
       "editorialStatus": "pending",
@@ -8194,6 +8602,41 @@
         "Budget and economy"
       ],
       "title": "FACT CHECK: Marcos did not call for SC shutdown over budget ruling"
+    },
+    "https://rappler.com/newsbreak/fact-check/ferdinand-marcos-jr-not-impeached-replaced-sara-duterte": {
+      "dateISO": "2026-11-06T08:06:50Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "9b22121d2ed5e3f9f87a6f11",
+      "officials": [
+        "Ferdinand R. Marcos Jr.",
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://rappler.com/newsbreak/fact-check/ferdinand-marcos-jr-not-impeached-replaced-sara-duterte",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "There is no vacancy in the presidency, nor is there any ruling or order from the Supreme Court that impeaches President Ferdinand Marcos Jr., allowing Vice President Sara Duterte to replace him",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "FACT CHECK: Marcos not impeached, replaced by Sara Duterte"
+    },
+    "https://rappler.com/newsbreak/fact-check/icc-arrest-warrant-against-ronald-dela-rosa-still-active-not-dismissed-supreme-court": {
+      "dateISO": "2026-11-05T23:15:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "b9e7738045bd67ac2d0197f5",
+      "officials": [],
+      "originalUrl": "https://rappler.com/newsbreak/fact-check/icc-arrest-warrant-against-ronald-dela-rosa-still-active-not-dismissed-supreme-court",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The International Criminal Court's arrest warrant against Senator Ronald 'Bato' dela Rosa remains in effect. Nor has the Philippine Supreme Court dismissed proceedings against him.",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments",
+        "Foreign affairs and international reporting"
+      ],
+      "title": "FACT CHECK: ICC’s arrest warrant vs Dela Rosa still active, not dismissed by SC"
     },
     "https://rappler.com/newsbreak/fact-check/no-official-statement-ferdinand-marcos-jr-intent-declare-war": {
       "dateISO": "2026-10-27T09:31:23Z",
@@ -9151,6 +9594,24 @@
       ],
       "title": "Sandro Marcos leaves father’s party, joins Lakas"
     },
+    "https://rappler.com/philippines/senate-court-admits-prosecution-evidence-sara-duterte-impeachment-trial": {
+      "dateISO": "2026-11-06T07:16:36Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "12b291bfda9020629c7655cd",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://rappler.com/philippines/senate-court-admits-prosecution-evidence-sara-duterte-impeachment-trial",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The defense earlier challenged the admissibility of the prosecution's documentary evidence",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments"
+      ],
+      "title": "Senate impeachment court admits prosecution evidence in Sara Duterte trial"
+    },
     "https://rappler.com/philippines/senate-majority-remove-corruption-prone-items-2027-budget": {
       "dateISO": "2026-11-02T09:38:06Z",
       "editorialStatus": "pending",
@@ -9278,6 +9739,23 @@
       ],
       "title": "Supreme Court junks Romualdez challenge vs Ombudsman plunder case"
     },
+    "https://rappler.com/philippines/supreme-court-upholds-law-extending-terms-barangay-sk-officials": {
+      "dateISO": "2026-11-06T11:10:01Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "d8e271ae12dc415e2804c870",
+      "officials": [],
+      "originalUrl": "https://rappler.com/philippines/supreme-court-upholds-law-extending-terms-barangay-sk-officials",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The same law also schedules the next barangay and Sangguniang Kabataan elections for November 2028",
+      "tags": [
+        "Investigations and claims",
+        "Elections and appointments",
+        "National and local governance"
+      ],
+      "title": "Supreme Court upholds law extending terms of barangay, SK officials"
+    },
     "https://rappler.com/philippines/teodoro-asean-defense-ministers-south-china-sea-frgmenting-world": {
       "dateISO": "2026-10-28T06:32:58Z",
       "editorialStatus": "pending",
@@ -9340,7 +9818,7 @@
       "title": "The tree Quezon planted, and Bacolod nearly forgot"
     },
     "https://rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos": {
-      "dateISO": "2026-11-05T05:06:43Z",
+      "dateISO": "2026-11-06T03:47:39Z",
       "editorialStatus": "pending",
       "firstCapturedAt": "2026-10-13",
       "id": "46d275465f0136fdc38701b4",
@@ -9490,6 +9968,21 @@
       ],
       "title": "Who are Sara Duterte’s initial witnesses in impeachment trial?"
     },
+    "https://rappler.com/technology/npc-probing-reports-alleged-data-leaks": {
+      "dateISO": "2026-11-06T07:38:45Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "49a0bcb5d0c238e18a6b7fc3",
+      "officials": [],
+      "originalUrl": "https://rappler.com/technology/npc-probing-reports-alleged-data-leaks",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "The National Privacy Commission is coordinating with various agencies to verify the alleged incidents and determine if personal data were compromised before requiring data breach notifications",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "NPC probing reports of alleged gov’t data leaks"
+    },
     "https://rappler.com/technology/sss-chief-robert-joseph-de-claro-named-dict-secretary": {
       "dateISO": "2026-10-13T07:17:44Z",
       "editorialStatus": "pending",
@@ -9538,6 +10031,23 @@
         "Budget and economy"
       ],
       "title": "Senate majority to strip 2027 budget of ‘corruption-prone’ items | The wRap"
+    },
+    "https://rappler.com/video/daily-wrap/november-5-2026": {
+      "dateISO": "2026-11-05T14:00:00Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "b5a3d79952a05a0bc663ee9f",
+      "officials": [
+        "Sara Duterte"
+      ],
+      "originalUrl": "https://rappler.com/video/daily-wrap/november-5-2026",
+      "sourceName": "Rappler",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Today’s headlines: Chief justice, Sara Duterte trial, Martin Romualdez",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "Marcos picks Rodil Zalameda as new chief justice | The wRap"
     },
     "https://rappler.com/video/daily-wrap/october-12-2026": {
       "dateISO": "2026-10-12T14:00:00.000Z",
@@ -9756,6 +10266,21 @@
         "Elections and appointments"
       ],
       "title": "Bennie Boatwright expected to join Gilas for November Fiba window"
+    },
+    "https://sports.inquirer.net/705557/live-alex-eala-vs-antonia-ruzic-hong-kong-open-quarterfinals": {
+      "dateISO": "2026-11-06T10:36:16Z",
+      "editorialStatus": "pending",
+      "firstCapturedAt": "2026-11-06",
+      "id": "14f3de9050f5533fb8e794a2",
+      "officials": [],
+      "originalUrl": "https://sports.inquirer.net/705557/live-alex-eala-vs-antonia-ruzic-hong-kong-open-quarterfinals",
+      "sourceName": "INQUIRER.net",
+      "sourceType": "publisher-rss-metadata",
+      "summary": "Alex Eala clashes with Antonia Ruzic in the Hong Kong Tennis Open quarterfinals for a spot in the semifinals. SCHEDULE: Alex Eala at Hong Kong Open November 6, Friday – Center Court 8:10pm (tentative) – Alex Eala vs Antonia Ruzic LIVE UPDATES: Alex Eala vs Antonia Ruzic Refresh this page for updates. Alex Eala faces An",
+      "tags": [
+        "Investigations and claims"
+      ],
+      "title": "LIVE: Alex Eala vs Antonia Ruzic - Hong Kong Open quarterfinals"
     }
   },
   "schemaVersion": 2
